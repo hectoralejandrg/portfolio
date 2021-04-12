@@ -1,9 +1,9 @@
 /*============== Home ================*/
 .intro{
-    background-image: url("../img/pexels-tranmautritam-251225.jpg");
+    background-image: url("../img/pexels-cottonbro-4709285.jpg");
     background-size: cover;
     background-position: center;
-    height: 89.90vh;
+    height: 100vh;
     width: 100%;
     text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
                0px 8px 13px rgba(0,0,0,0.5),

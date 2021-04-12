@@ -42,12 +42,18 @@
 .space-right{
     padding-right: 0.3rem;
 }
+.space-bottom{
+    padding-bottom: 0.3rem;
+}
+.space-top{
+    padding-top: 0.4rem;
+}
 .xbold{
     font-weight: bolder;
 }
 
-.color-secondary{
-    color: black;
+.color-white{
+    color: white;
 }
 
 .display-inline-block{
