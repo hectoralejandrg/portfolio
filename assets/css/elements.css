@@ -1,0 +1,56 @@
+/*======= Card About ========*/
+.shadow-card{
+    position: relative;
+    display: inline-block;
+    background-color: #F48E4F;
+    width: 75%;
+    height: 70vh;
+    border-top-left-radius: 100px 50px ;
+}
+.middle-card{
+    position: absolute;
+    background-color: #9FD4CA;
+    width: 95%;
+    height: 100%;
+    border-top-left-radius: 100px 50px ;
+}
+.on-card{
+    position: absolute;
+    background-color: #FFF;
+    width: 95%;
+    height: 100%;
+    border-top-left-radius: 100px 50px ;
+}
+.container-card{
+    position: absolute;
+    padding-left: 10%;
+    height: auto;
+    word-wrap: break-word;
+}
+/*======= Progress bar ========*/
+.container-progress{
+    position: relative;
+}
+.white-progress{
+    position: absolute;
+    height: 2rem;
+    width: 100%;
+    background-color: #F6F4FC;
+    border-radius: 0.8rem;
+}
+.bar-progress{
+    position: absolute;
+    height: 2rem;
+    width: 75%;
+    background-color: #E87D27;
+    border-top-left-radius: 0.8rem;
+    border-bottom-left-radius: 0.8rem;
+}
+.shadow-progress{
+    position: absolute;
+    height: 2rem;
+    width: 25%;
+    background-color: #BD4D1B;
+    border-top-left-radius: 0.8rem;
+    border-bottom-left-radius: 0.8rem;
+}

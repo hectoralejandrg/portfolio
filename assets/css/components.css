@@ -1,0 +1,40 @@
+/* Navigation */
+.main-nav{
+    justify-content: space-between;
+    background-color: #F9A470;
+    height: 4rem;
+}
+
+.main-nav li{
+    display: inline-block;
+}
+
+.main-nav li:hover{
+    background: #FAD0B5;
+}
+
+.main-nav a{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.logo{
+    background-color: #FAD0B5;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo p{
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+.logo-container{
+    padding: 10px 20px;
+}
